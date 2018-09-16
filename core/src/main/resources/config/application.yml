@@ -1,0 +1,3 @@
+mybatis:
+  config-location: classpath:mapxml/**/*Mapper.xml
+  type-aliases-package: cn.llyong.boot.domain
